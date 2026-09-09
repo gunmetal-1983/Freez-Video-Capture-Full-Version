@@ -238,3 +238,6 @@ This repository serves as the official landing page for Freez Screen Video Captu
 [![Download Latest Version](https://img.shields.io/badge/📥%20Download%20Latest%20Version-00b4d8?style=for-the-badge&logo=github&logoColor=white)](https://SmallVideoSoft.com)
 
 **Get the most recent version of Freez Screen Video Capture today!**
+
+---
+**Last updated:** 2026-09-09 18:55:30 UTC
