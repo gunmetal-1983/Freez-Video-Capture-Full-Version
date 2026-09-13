@@ -240,4 +240,4 @@ This repository serves as the official landing page for Freez Screen Video Captu
 **Get the most recent version of Freez Screen Video Capture today!**
 
 ---
-**Last updated:** 2026-09-12 23:33:32 UTC
+**Last updated:** 2026-09-13 02:00:10 UTC
